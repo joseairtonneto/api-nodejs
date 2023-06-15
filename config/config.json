@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "umj-usuario",
+    "password": "umj-senha",
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "umj-usuario",
+    "password": "umj-senha",
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "umj-usuario",
+    "password": "umj-senha",
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
